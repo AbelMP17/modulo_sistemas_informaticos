@@ -23,7 +23,7 @@ Haces un commit de los archivos añadidos ->
 git commit -m "<descripcionDelCommit>"
 
 Nos conectamos al repositorio ->
-git remote add <nombreRaíz> https://github.com/<nombreUsuario>/<nombreRepositorio>.git
+git remote add <nombreRaíz> https://github.com/nombreUsuario/nombreRepositorio.git
 
 Obtenemos los archivos subidos al repositorio ->
 git pull
